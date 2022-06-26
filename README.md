@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoisyTornado 
 - 👀 I’m interested in Science and learning
-- 🌱 I’m currently learning Html, Css,and JavaScript
+- 🌱 I’m currently learning Html, Css, and JavaScript
 - 📫 How to reach me ... KevinBautista88@gmail.com
 
 <!---
